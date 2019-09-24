@@ -9,7 +9,7 @@ public class StringManipulation {
 	public static void main(String[] args) {
 		reverseStringWithRemoveDuplication();
 	}
-       //reverseWith  duplication
+       //reverse With  duplication
 	public static void reverseStringWithRemoveDuplication() {
 		String rev = "";
 		String temp="";
