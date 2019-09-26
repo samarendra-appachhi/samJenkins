@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="5" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4308" started-at="2019-07-19T05:37:33Z" finished-at="2019-07-19T05:37:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4308" started-at="2019-07-19T05:37:33Z" finished-at="2019-07-19T05:37:37Z">
+      <class name="apiTestScript.RestApiClientTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:apiTestScript.RestApiClientTest@cc285f4]" name="setUp" is-config="true" duration-ms="246" started-at="2019-07-19T05:37:33Z" finished-at="2019-07-19T05:37:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getCountries()[pri:4, instance:apiTestScript.RestApiClientTest@cc285f4]" name="getCountries" duration-ms="4017" started-at="2019-07-19T05:37:33Z" finished-at="2019-07-19T05:37:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCountries -->
+      </class> <!-- apiTestScript.RestApiClientTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
