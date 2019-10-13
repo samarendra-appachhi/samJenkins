@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="APiSuite">
+
+	<listeners>
+		<listener class-name="resources.ExtentReporterNG" />
+	</listeners>
+	<test name="User_APi_Test">
+		<classes>
+			<class name="apiTestScript.UserTest" />
+
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
